@@ -1,5 +1,5 @@
 {
-  "name": "ellangava-agro-chat",
+  "name": "ellangava-agrochat",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,15 +10,15 @@
   "dependencies": {
     "encoding": "^0.1.13",
     "formidable": "^2.0.0",
-    "next": "13.x",
+    "next": "13.5.11",
     "openai": "^4.0.0",
     "pdf-parse": "^1.1.1",
-    "react": "18.x",
-    "react-dom": "18.x"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^24.1.0",
-    "@types/react": "^19.1.8",
+    "@types/node": "^20.19.9",
+    "@types/react": "^18.3.23",
     "typescript": "^5.8.3"
   }
 }
